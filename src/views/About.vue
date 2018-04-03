@@ -1,9 +1,9 @@
 <template lang = "pug">
 
 div(class="about")
-  h2 This is the About Page aka a page with nothing About Anything
+  h1 This is the About Page aka a page with nothing About anything
 
-  h1 Laracasts Source Links
+  h2 Laracasts Source Links
    
   ul
     li
