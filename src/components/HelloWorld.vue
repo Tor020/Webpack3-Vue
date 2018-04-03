@@ -2,12 +2,12 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <ul>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/docs" target="_blank">vue-cli documentation</a></li>
+      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/docs" target="_blank">Vue_CLI_Docs</a></li>
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank">Awesome_Vue</a></li>
     </ul>
     <h3>Old Projects</h3>
     <ul>
-      <li><a href="https://github.com/Tor020/VueBulmaSassBP/tree/master/scripts" target="_blank">Vue Notes_Good Example</a></li>
+      <li><a href="https://github.com/Tor020/VueBulmaSassBP/tree/master/scripts" target="_blank">Vue_Notes_Good Example</a></li>
       <li><a href="https://github.com/Tor020/Sectioned-Vue-Notes" target="_blank">Vue_Mediocre Example</a></li>
     </ul>
     <h3>Cheat Sheets / Docs</h3>
