@@ -1,9 +1,10 @@
-import Vue from 'vue'
-import App from './App.vue'
-import router from './router'
-import stlye from './sass/style.scss';
+import Vue from 'vue';
+import App from './App.vue';
+import router from './router';
 
-Vue.config.productionTip = false
+import style from './sass/style.scss';
+
+Vue.config.productionTip = false;
 
 new Vue({
   router,

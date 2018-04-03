@@ -1,0 +1,46 @@
+$blue-gray:linear-gradient(270deg, rgb(80, 102, 161), rgb(135, 131, 161));
+
+
+
+body{
+  background:$blue-gray;
+  color: #262d33;
+  font-family: 'Roboto', 'Open-sans';
+}
+
+/* Base Vue styles that came with Boiler */
+h3 {
+  margin: 40px 0 0;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li {
+  display: inline-block;
+  margin: 0 10px;
+}
+a {
+  color: #42b983;
+}
+
+/*               */
+
+
+#app {
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  
+}
+#nav {
+  padding: 30px;
+  a {
+    font-weight: bold;
+    color: #2c3e50;
+    &.router-link-exact-active {
+      color: #42b983;
+    }
+  }
+}
