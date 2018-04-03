@@ -1,6 +1,7 @@
+### Todo
+- Look into how you actually need to pass options to webpack so that you can fine tune things, like the port the project is served on.
+
 ### Notes
-
-
 
 #### Sass
 - [Sass](https://github.com/vuejs/vue-cli/blob/dev/docs/css.md)
@@ -14,6 +15,3 @@
 - [Full Vue-cli Docs](https://github.com/vuejs/vue-cli/tree/dev/docs)
 - [Vue-cli commands](https://github.com/vuejs/vue-cli/blob/dev/docs/cli.md)
 - Seems to be some weird way of passing options to webpack with [vue-cli](https://github.com/vuejs/vue-cli/blob/dev/docs/webpack.md#inspecting-the-projects-webpack-config) 
-
-### Todo
-- Look into how you actually need to pass options to webpack so that you can fine tune things, like the port the project is served on.
