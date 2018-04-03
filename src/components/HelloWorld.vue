@@ -15,7 +15,7 @@
       <li><a href="https://devhints.io/vue" target="_blank">Dev_Hints</a></li>
       <li><a href="https://vuejs-tips.github.io/cheatsheet/" target="_blank">Cheat_Sheet_Docs</a></li>
       <li><a href="https://laracasts.com/series/learn-vue-2-step-by-step/" target="_blank">Laracasts</a></li>
-      <li><a href="https://vuejs.org" target="_blank">Core_Vue_Docs</a></li>
+      <li><a href="https://vuejs.org/v2/guide/" target="_blank">Core_Vue_Docs</a></li>
       <li><a href="http://devdocs.io/vue~2-guide/" target="_blank">Dev_Docs</a></li>
     </ul>
   </div>
