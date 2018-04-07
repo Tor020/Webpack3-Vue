@@ -5,6 +5,13 @@
 
 ### Notes
 
+make a  
+
+```Vue.config.js```
+
+for webpack options list [here](https://github.com/vuejs/vue-cli/blob/dev/docs/config.md)
+
+
 #### Sass
 - [Sass](https://github.com/vuejs/vue-cli/blob/dev/docs/css.md)
 - [Vue-Docs for Sass](https://github.com/vuejs/vue-cli/blob/dev/docs/css.md)
@@ -12,6 +19,8 @@
 #### Pug
 - [PrePros Boilerplate HTML](https://github.com/Tor020/preprosboilerplate/tree/master/Dev)
 - [Pug](https://gist.github.com/gearmobile/e1be3359a667eb1e555b2c461955e800)
+- [HTML to Pug](https://html-to-pug.com/)
+- [Pug to HTML](https://pughtml.com/)
 
 #### Vue-Cli
 - [Full Vue-cli Docs](https://github.com/vuejs/vue-cli/tree/dev/docs)
