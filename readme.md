@@ -9,7 +9,8 @@ make a
 
 ```Vue.config.js```
 
-for webpack options list [here](https://github.com/vuejs/vue-cli/blob/dev/docs/config.md)
+for webpack options list [here](https://github.com/vuejs/vue-cli/tree/dev/docs/config)
+for webpack config example [here](https://github.com/vuejs/vue-cli/blob/dev/docs/guide/webpack.md#simple-configuration)
 
 
 #### Sass
